@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/WiktorKarnia/TicTacToe">
-    <img src="images/ProjectIcon.jpg" alt="Logo" width="80" height="80">
+    <img src="images/ProjectIcon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Tic Tac Toe</h3>
@@ -18,9 +18,11 @@
     <br />
   </p>
 </p>
+
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
-![Project Preview](TicTacToePreviev.jpg)
+![Project Preview](images/TicTacToePreviev.jpg)
 It's an basic game that works basically exactly the same as you'd play Tic Tac Toe on paper. The objective is to connect three shapes of one kind vertically, horizontally or diagonally. 
 My version was written using python with some features from pygame.
 

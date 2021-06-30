@@ -21,9 +21,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="images/TicTacToePreview.jpg" alt="Preview" width="800" height="800">
-
+<p align="center">
+  <img src="images/TicTacToePreview.jpg" alt="Preview" width="500" height="500">
+</p>
 It's an basic game that works basically exactly the same as you'd play Tic Tac Toe on paper. The objective is to connect three shapes of one kind vertically, horizontally or diagonally. 
 My version was written using python with some features from pygame.
 
@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple steps.
    ```
    git clone https://github.com/WiktorKarnia/TicTacToe
 
-2. Fire up the game and have fun.
+2. Fire up the TicTacToe.py file and try it out.
 
 
 <!-- CONTACT -->

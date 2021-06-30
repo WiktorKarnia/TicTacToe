@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Project Preview](images/TicTacToePreviev.jpg)
+<img src="images/TicTacToePreview.jpg" alt="Preview" width="800" height="800">
 
 It's an basic game that works basically exactly the same as you'd play Tic Tac Toe on paper. The objective is to connect three shapes of one kind vertically, horizontally or diagonally. 
 My version was written using python with some features from pygame.
